@@ -1,0 +1,2 @@
+PASS: 83 HTTP checks plus stock totals, idempotency, private lookup, quality hold, ship/deliver, cancellation, expiry, concurrent oversell protection, real SSR, proxy and sitemap assertions.
+Synthetic data used only in a disposable local database.

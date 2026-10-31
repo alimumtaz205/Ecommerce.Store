@@ -1,0 +1,27 @@
+{
+  "Db.cs": {
+    "original": "Data/Db.cs",
+    "sha256": "7c8f6084a0594ae07552855791838de01652e6acfb508e863d81ff32c0e66b10",
+    "matchesOriginal": true
+  },
+  "Rules.cs": {
+    "original": "Services/Rules.cs",
+    "sha256": "2815cdb67d4621ff3c35b4e2e5c61e950fa60dff7369606012626d99e8a7db7f",
+    "matchesOriginal": true
+  },
+  "AuthService.cs": {
+    "original": "Security/AuthService.cs",
+    "sha256": "8cc4c903677682d5a88639618dfe7d7d0d170a0616709a39ed37a7cf6c114180",
+    "matchesOriginal": true
+  },
+  "TokenService.cs": {
+    "original": "Security/TokenService.cs",
+    "sha256": "d3457df66096c0ed17c6cfc44804035dec230e5cdc10cf3d5083621e31da365f",
+    "matchesOriginal": true
+  },
+  "Requests.cs": {
+    "original": "Contracts/Requests.cs",
+    "sha256": "bb2e226d1ac274efd9e3f9fd288cc183ae51aa2a090f094f9cfd07efa14e7c15",
+    "matchesOriginal": true
+  }
+}

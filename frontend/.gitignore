@@ -1,0 +1,8 @@
+node_modules/
+dist/
+.angular/
+.qa/
+.openai/
+.env
+*.log
+coverage/
