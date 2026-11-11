@@ -1,5 +1,5 @@
 export const environment = {
   production: false,
   api: "/capi",
-  siteUrl: "http://localhost:7280",
+  siteUrl: "https://nutrageaapi.onrender.com",
 } as const;
